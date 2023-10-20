@@ -1,3 +1,7 @@
+# ket: menampilkan isi line terakhir menjadi line pertama, logs.txt => akan di ubah dan disimpan ke hasil.txt
+
+
+
 a
 b
 c
